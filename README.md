@@ -16,3 +16,4 @@ Method to validate their guesses into building a model.
 # Author and License
 
 The code potrayed in the index.js is my work and some Google skills.# code-challenge
+# code-challenge
